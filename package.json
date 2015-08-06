@@ -1,0 +1,23 @@
+{
+  "name": "ligle-plugin-globals",
+  "version": "1.0.0",
+  "description": "provide globals object",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.hijack.moe/crackhopper/ligle-plugin-globals.git"
+  },
+  "keywords": [
+    "global",
+    "config"
+  ],
+  "dependencies": {
+    "ligle-engine": "~0.2.5",
+    "moment": "2.10.3"
+  },
+  "author": "crackhopper",
+  "license": "ISC"
+}
