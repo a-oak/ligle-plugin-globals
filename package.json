@@ -1,6 +1,6 @@
 {
   "name": "ligle-plugin-globals",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "provide globals object",
   "main": "index.js",
   "scripts": {
@@ -15,9 +15,10 @@
     "config"
   ],
   "dependencies": {
-    "ligle-engine": "~0.2.5",
+    "ligle-engine": "~0.3.0",
     "moment": "2.10.3"
   },
+  "readme": "README.md",
   "author": "crackhopper",
   "license": "ISC"
 }

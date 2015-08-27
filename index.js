@@ -1,7 +1,7 @@
 var moment = require('moment');
 
 module.exports = function(ligle){
-  var Meta = ligle.base.model.ModelBase.extend({
+  var Meta = ligle.model.ModelBase.extend({
     __className:'globals',
     __upDir:'globals',
     coll:{name:'globals',fields:{}},
