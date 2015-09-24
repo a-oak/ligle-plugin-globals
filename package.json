@@ -14,8 +14,14 @@
     "global",
     "config"
   ],
+  "peerDependencies": {
+    "ligle-util": "~0.3.2",
+    "ligle-db": "~0.3.2",
+    "ligle-model": "~0.3.2",
+    "ligle-midware": "~0.3.3",
+    "ligle-engine": "~0.3.3"
+  },
   "dependencies": {
-    "ligle-engine": "~0.3.0",
     "moment": "2.10.3"
   },
   "readme": "README.md",
