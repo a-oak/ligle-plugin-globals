@@ -1,6 +1,6 @@
 {
   "name": "ligle-plugin-globals",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "description": "provide globals object",
   "main": "lib/index.js",
   "scripts": {
