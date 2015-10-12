@@ -6,10 +6,10 @@
   "scripts": {
     "test": "grunt test"
   },
-  "homepage": "https://git.hijack.moe/crackhopper/ligle-plugin-globals",
+  "homepage": "https://github.com/a-oak/ligle-plugin-globals",
   "repository": {
     "type": "git",
-    "url": "https://git.hijack.moe/crackhopper/ligle-plugin-globals.git"
+    "url": "https://github.com/a-oak/ligle-plugin-globals.git"
   },
   "keywords": [
     "global",
